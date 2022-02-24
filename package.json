@@ -4,11 +4,13 @@
   "description": "## 1. 初始化项目",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon src/demo/02-middleware-logger.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.15"
   }
 }
