@@ -1,10 +1,10 @@
 {
   "name": "koa-learn",
   "version": "1.0.0",
-  "description": "## 1. 初始化项目",
+  "description": "demo",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon demo/request/post-middleware.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
